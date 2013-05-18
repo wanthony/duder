@@ -9,6 +9,7 @@ require 'duder/associations'
 require 'duder/base'
 require 'duder/accessory'
 require 'duder/character'
+require 'duder/company'
 
 module Duder
   module Settings
